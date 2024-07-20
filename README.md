@@ -1,6 +1,8 @@
 # Movie Recommender System
 this is one mof my fail project the tmdb api is not working somehow i have spent 3 days finding the alternative for api but here is a sample that how this project should look like 
+
 https://github.com/user-attachments/assets/c1d80429-f643-4e2f-b8f5-b059800c9c9a
+
  ## Overview
  but my project look like this without the poster api
  
